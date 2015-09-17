@@ -2,9 +2,6 @@ package myTree;
 
 import java.util.ArrayList;
 
-/**
- * Created by serhii on 28.06.15.
- */
 public class TestTree {
 
     public static void main(String[] args) {
