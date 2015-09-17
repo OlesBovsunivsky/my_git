@@ -1,4 +1,4 @@
-package MyTree;
+package myTree;
 
 public class NotComparableException extends RuntimeException {
 

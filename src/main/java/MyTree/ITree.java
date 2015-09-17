@@ -1,4 +1,4 @@
-package MyTree;
+package myTree;
 
 public interface ITree<T> {
 

@@ -1,4 +1,4 @@
-package MyTree;
+package myTree;
 
 public class MyBinarySearchTree<E> implements ITree<E> {
 

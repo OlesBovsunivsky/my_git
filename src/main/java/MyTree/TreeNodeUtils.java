@@ -1,4 +1,4 @@
-package MyTree;
+package myTree;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -9,9 +9,6 @@ public class TreeNodeUtils {
     public static void main(String[] args) {
         TreeNode n10 = new TreeNode(null, 10, null, null);
         TreeNode n15 = new TreeNode(null, 15, n10, null);
-
-
-
         TreeNode n46 = new TreeNode(null, 46, null, null);
         TreeNode n30 = new TreeNode(null, 30, null, null);
         TreeNode n45 = new TreeNode(null, 45, null, n46);
